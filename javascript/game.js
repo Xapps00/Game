@@ -589,7 +589,7 @@ function playerJump() {
       player.isMovingRight = false;
     }
   };
-
+  //comment
   //Accelerations produces when the user hold the keys
   if (player.isMovingLeft === true) {
     player.x += player.vx;
